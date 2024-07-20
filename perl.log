@@ -1,0 +1,4 @@
+Argument "true" isn't numeric in numeric eq (==) at C:\Users\Artemka\Downloads\vscode\minecraft-server-gitsync\start.pl line 73, <STDIN> line 1.
+Argument "false" isn't numeric in numeric eq (==) at C:\Users\Artemka\Downloads\vscode\minecraft-server-gitsync\start.pl line 73, <STDIN> line 1.
+Argument "true" isn't numeric in numeric eq (==) at C:\Users\Artemka\Downloads\vscode\minecraft-server-gitsync\start.pl line 79, <STDIN> line 1.
+error: pathspec 'update'' did not match any file(s) known to git
